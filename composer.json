@@ -1,0 +1,14 @@
+{
+    "name": "test/test-composer",
+    "description": "test",
+    "type": "library",
+    "require": {
+        "php": "^7.2"
+    },
+    "license": "mit",
+	"autoload": {
+		"files": [
+			"src/helpers.php"  
+		]
+    }
+}
