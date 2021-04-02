@@ -1,5 +1,5 @@
 {
-    "name": "test/test-composer",
+    "name": "johnsonzhong/test-composer",
     "description": "test",
     "type": "library",
     "require": {
